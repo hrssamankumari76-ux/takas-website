@@ -43,21 +43,6 @@ This website is a **one-page, mobile-friendly site** showcasing Takas products, 
 ## Contact & Orders
 - **Call:** 071 673 1122  
 - **Call:** 036 224 7579  
-- **WhatsApp Orders:** [Click to chat](https://wa.me/94362247579)
+- **WhatsApp Orders:** [Click to chat](https://wa.me/94716731122)
 
 ---
-
-## How to Use / Publish
-1. Clone or download this repository.  
-2. Open `index.html` locally in a browser to test.  
-3. To make it live online:
-   - Use **GitHub Pages** (recommended, free)
-   - Upload `index.html` to your GitHub repository
-   - Enable Pages in Settings → Pages → Source: main /root
-   - Your site will be live at `https://YOUR-USERNAME.github.io/takas-website/`  
-
----
-
-## Notes
-- Ensure the file `index.html` remains in the root folder.  
-- Mobile-friendly design; works best on Chrome and other
